@@ -6,6 +6,6 @@ def get_db_connection():
         host="localhost",
         user="root",
         password="",
-        database="ordem",
-        port=1308
+        database="",
+        port=
     )
