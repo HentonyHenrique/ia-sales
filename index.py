@@ -1,15 +1,9 @@
-import mysql.connector
 import speech_recognition as sr
 import pyttsx4
+from db_config import get_db_connection
 
-# Configuração da conexão com o banco de dados
-mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="",
-    database="ordem",
-    port=1308
-)
+# Obtém a conexão com o banco de dados
+mydb = get_db_connection()
 
 r = sr.Recognizer()
 
