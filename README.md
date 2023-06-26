@@ -1,4 +1,5 @@
-Leitor de Vendas no MySQL com Função de Fala
+Leitor de Vendas no MySQL com Função de Fala:
+
 Este projeto consiste em uma aplicação de Inteligência Artificial (IA) que realiza a leitura de vendas armazenadas em um banco de dados MySQL e é capaz de fornecer a informação por meio de uma saída de voz. Essa aplicação é útil para automatizar a leitura de dados de vendas e fornecer informações de forma auditiva, tornando-a acessível a pessoas com deficiência visual ou para situações em que a leitura visual não é possível ou conveniente.
 
 Funcionalidades
